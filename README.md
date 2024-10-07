@@ -1,2 +1,8 @@
 # Qbank_DatabaseModel
-Este repositorio esta destinado a atividade em ddl e mer da faculdade, onde foi modelado o banco de dados de um sistema finaceiro bancario
+qBank
+qBank é uma aplicação de banco financeiro que visa simplificar a gestão de contas e transações financeiras. Este repositório contém o Modelo Entidade-Relacionamento (MER) e um script SQL para a criação do banco de dados.
+
+
+Estrutura do Projeto
+MER: Diagrama representando o modelo de dados.
+Script SQL: Comandos para a criação das tabelas, inserção de dados iniciais e definição das chaves primárias e estrangeiras.
